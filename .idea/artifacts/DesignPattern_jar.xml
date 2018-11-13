@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DesignPattern:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DesignPattern_jar</output-path>
+    <root id="archive" name="DesignPattern.jar">
+      <element id="module-output" name="DesignPattern" />
+    </root>
+  </artifact>
+</component>
